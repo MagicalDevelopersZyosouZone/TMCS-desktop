@@ -1,2 +1,2 @@
-# TMCS-desktop
+# TMCS-Desktop
 TMCS Client desktop version
